@@ -1,0 +1,21 @@
+Via Giuseppe ACERBI	44.656694400	10.898991200	San Faustino-Madonnina-Quattroville
+Via Degli ADELARDI	44.645649000	10.921296000	Centro Storico
+Via ADRIA	44.633450300	10.924301100	Buon Pastore-Sant'Agnese-San Damaso
+Corso ADRIANO	44.642667200	10.928747100	Centro Storico
+Via Dell'AEROPORTO	44.628244900	10.808032300	San Faustino-Madonnina-Quattroville
+Stradello AGGAZZOTTI	44.602417500	10.919661700	Buon Pastore-Sant'Agnese-San Damaso
+Via Gaetana AGNESI	44.643425900	10.891692300	San Faustino-Madonnina-Quattroville
+via rossi modena	44.892328400	10.905001400
+carnaby street londra	51.513109000	-0.138774700	Soho
+Via ARCHIROLA	44.639347500	10.930971500	Centro Storico
+Via ARENZANO	44.632474100	10.934181900	Buon Pastore-Sant'Agnese-San Damaso
+Via AREZZO	44.623001200	10.924100100	Buon Pastore-Sant'Agnese-San Damaso
+Via ARGENTINA	44.662103100	10.964164500	Crocetta-San Lazzaro-Modena Est
+Via Alessandro ARGIOLAS	44.610404500	10.920062700	Buon Pastore-Sant'Agnese-San Damaso
+Via Dell'ARIETE	44.628928900	10.888965900	San Faustino-Madonnina-Quattroville
+Via Ludovico ARIOSTO	44.536086300	10.820910900	Quartiere Case Nuove
+Via ARISTOTELE	44.643507900	10.886376700	San Faustino-Madonnina-Quattroville
+Via Curcio ARLETTI	44.642992200	10.964084000	Crocetta-San Lazzaro-Modena Est
+Via Carlo ARMELLINI	44.632605600	10.952201000	Buon Pastore-Sant'Agnese-San Damaso
+Stradello ARMENONE	44.612078600	10.911914000	Buon Pastore-Sant'Agnese-San Damaso
+Via  ARQUA	44.626868700	10.925722900	Buon Pastore-Sant'Agnese-San Damaso

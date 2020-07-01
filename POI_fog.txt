@@ -1,0 +1,6 @@
+Via Dell'ACERO	44.6909331	10.9693036	Crocetta-San Lazzaro-Modena Est
+Via Antonio ABETTI	44.6252616	10.8930884	San Faustino-Madonnina-Quattroville
+Corso ACCADEMIA MILITARE	44.6477929	10.9303268	Centro Storico
+Via Giuseppe Cesare ABBA	44.6331058	10.9396779	Buon Pastore-Sant'Agnese-San Damaso
+Via Dell'ARTIGIANATO	44.5566788	10.8545749	Casa Vandelli
+Piazza Emilio ALESSANDRINI	44.6755397	11.0419783	La Prospettiva
