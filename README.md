@@ -1,2 +1,2 @@
 # PAFFI
-Refactoring of the framework PAFFI about scenario generation in Fog Computing.
+Refactoring of the framework PAFFI for scenario generation in Fog Computing.
